@@ -1,11 +1,11 @@
-# CL-MARL: Counterfactual Advantage Empowered Dynamic Curriculum Learning for MARL (StarCraft II)
+# CL-MARL: Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning (StarCraft II)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12%2B-orange.svg)](https://pytorch.org/)
 
 Official implementation of our under-review MARL paper:  
-**"Counterfactual Group Relative Policy Advantage Empowered Dynamic Curriculum Learning for Multi-Agent Reinforcement Learning"**
+**"Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning"**
 
 [[Paper]](https://arxiv.org/abs/) | [[Project Page]](https://github.com/NICE-HKU/CL2MARL-SMAC) | [[SMAC Benchmark]](https://github.com/oxwhirl/smac)
 
