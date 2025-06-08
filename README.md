@@ -91,8 +91,8 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{jin2025counterfactual,
-  title={Counterfactual Group Relative Policy Advantage Empowered Dynamic Curriculum Learning for Multi-Agent Reinforcement Learning},
-  author={Jin, Weiqiang and Du, Hongyang and Liu, Guizhong et al.},
+  title={Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning},
+  author={Jin, Weiqiang and Du, Hongyang and Liu, Guizhong and Kim, Dong In},
   journal={},
   year={2025}
 }
