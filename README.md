@@ -90,10 +90,10 @@ For questions, please contact:
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{jin2025counterfactual,
+@article{nice2025counterfactual,
   title={Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning},
   author={Jin, Weiqiang and Du, Hongyang and Liu, Guizhong and Kim, Dong In},
-  journal={},
+  journal={Arxiv preprint arXiv:2506.07548},
   year={2025}
 }
 ```
