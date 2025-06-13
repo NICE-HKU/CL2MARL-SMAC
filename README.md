@@ -7,7 +7,7 @@
 Official implementation of our under-review MARL paper:  
 **"Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning"**
 
-[[Paper]](https://arxiv.org/abs/) | [[Project Page]](https://github.com/NICE-HKU/CL2MARL-SMAC) | [[SMAC Benchmark]](https://github.com/oxwhirl/smac)
+[[Paper]](https://arxiv.org/abs/2506.07548) | [[Project Page]](https://github.com/NICE-HKU/CL2MARL-SMAC) | [[SMAC Benchmark]](https://github.com/oxwhirl/smac)
 
 [//]: # (XXXX.XXXXX)
 
